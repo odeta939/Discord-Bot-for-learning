@@ -1,0 +1,25 @@
+{
+  "name": "discord_bot_for_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LearningBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odeta939/Discord-Bot-for-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odeta939/Discord-Bot-for-learning/issues"
+  },
+  "homepage": "https://github.com/odeta939/Discord-Bot-for-learning#readme",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "dotenv": "^8.2.0",
+    "prettier": "^2.2.1"
+  }
+}
